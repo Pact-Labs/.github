@@ -63,7 +63,7 @@ At Pact Labs, we believe that **innovation** should empower communities, **techn
 
 ## 🌐 **Join the Pact Community**  
 Be part of a movement that's changing how we see blockchain and AI:  
-- 💬 [Docs](https://pact-3.gitbook.io/pact)  
+- 💬 [Docs](https://docs.pactdocs.info/)  
 - 🐦 [Twitter](https://x.com/pact_io)  
 - 🌐 [Website](https://pactcolony.com/)  
 
