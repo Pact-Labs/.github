@@ -63,9 +63,9 @@ At Pact Labs, we believe that **innovation** should empower communities, **techn
 
 ## 🌐 **Join the Pact Community**  
 Be part of a movement that's changing how we see blockchain and AI:  
-- 💬 [Discord](https://discord.gg/pactlabs)  
-- 🐦 [Twitter](https://twitter.com/pactlabs)  
-- 🌐 [Website](https://example.com)  
+- 💬 [Docs](https://pact-3.gitbook.io/pact)  
+- 🐦 [Twitter](https://x.com/pact_io)  
+- 🌐 [Website](https://pactcolony.com/)  
 
 ---
 
@@ -74,4 +74,4 @@ Pact is **open-source** and available under the [MIT License](LICENSE).
 
 ---  
 
-**Pact Labs**—Powering the next generation of decentralized intelligence. 🌟  
+©️ 2025 **Pact Labs**—Powering the next generation of decentralized intelligence. 🌟  
